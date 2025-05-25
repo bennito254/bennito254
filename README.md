@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennito254
 - 👀 I’m interested in almost everything tech and farming
-- 🌱 I’m currently learning Flutter and VueJS
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on backend development
 - 📫 To contact me and more information, visit https://bennito254.com
 
